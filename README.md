@@ -1,4 +1,4 @@
-# Hi, I’m Geetanjali Saini,Electronics and Communication Engineering student at NIT Goa, skilled in AI tools, space science, and automation projects. Proficient in Verilog, C, and Python programming, along with strong technical communication skills. Hands-on experience in AI-driven automation, data analysis, and energy harvesting technologies. Passionate about electronics, communication systems, and astronomy.
+
 # 💫 About Me:
 🎓 Electronics and Communication Engineering student at NIT Goa<br><br>🤖 Skilled in AI tools, space science, and automation projects<br><br>💻 Proficient in Verilog, C, and Python programming<br><br>📝 Strong technical communication skills<br><br>⚡ Hands-on experience in AI-driven automation, data analysis, and energy harvesting<br><br>🌌 Passionate about electronics, communication systems, and astronomy
 
